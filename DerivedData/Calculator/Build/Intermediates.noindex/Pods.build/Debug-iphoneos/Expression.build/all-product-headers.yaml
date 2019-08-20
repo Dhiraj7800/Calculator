@@ -1,0 +1,65 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Calculator/DerivedData/Calculator/Build/Products/Debug-iphoneos/Expression/Expression.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Expression-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Calculator/DerivedData/Calculator/Build/Products/Debug-iphoneos/Expression/Expression.framework/Headers/Expression-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Expression-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Calculator/Pods/Target Support Files/Expression/Expression-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Expression.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Calculator/Pods/Expression/Sources/Expression.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Calculator/DerivedData/Calculator/Build/Products/Debug-iphoneos/Expression/Expression.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Calculator/DerivedData/Calculator/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Expression.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Calculator/DerivedData/Calculator/Build/Products/Debug-iphoneos/Pods_Calculator.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Calculator-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Calculator/Pods/Target Support Files/Pods-Calculator/Pods-Calculator-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Calculator-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Calculator/DerivedData/Calculator/Build/Products/Debug-iphoneos/Pods_Calculator.framework/Headers/Pods_Calculator-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Calculator/DerivedData/Calculator/Build/Products/Debug-iphoneos/Pods_Calculator.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Calculator/DerivedData/Calculator/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-Calculator.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

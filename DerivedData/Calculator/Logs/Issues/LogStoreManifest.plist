@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>05907FFB-C7FD-4C0E-BD33-7470174A937C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>05907FFB-C7FD-4C0E-BD33-7470174A937C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>Expression-bmotibiwkmmychfdpbijsmqumopm</string>
+			<key>timeStartedRecording</key>
+			<real>587936114.88755703</real>
+			<key>timeStoppedRecording</key>
+			<real>587936117.37072206</real>
+			<key>title</key>
+			<string>Build target Expression</string>
+			<key>uniqueIdentifier</key>
+			<string>05907FFB-C7FD-4C0E-BD33-7470174A937C</string>
+		</dict>
+		<key>207F9F56-1457-4E10-98D3-4B802751EAB0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>207F9F56-1457-4E10-98D3-4B802751EAB0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>Calculator-ebfoebmizbcvtudvryrqiclucagx</string>
+			<key>timeStartedRecording</key>
+			<real>587965430.37675703</real>
+			<key>timeStoppedRecording</key>
+			<real>587965434.50037396</real>
+			<key>title</key>
+			<string>Build target Calculator</string>
+			<key>uniqueIdentifier</key>
+			<string>207F9F56-1457-4E10-98D3-4B802751EAB0</string>
+		</dict>
+		<key>21E07E2E-B0C0-45AE-B2D2-1269772742E5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>21E07E2E-B0C0-45AE-B2D2-1269772742E5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>Pods-Calculator-bmotibiwkmmychfdpbijsmqumopm</string>
+			<key>timeStartedRecording</key>
+			<real>587934768.48686397</real>
+			<key>timeStoppedRecording</key>
+			<real>587934772.50132596</real>
+			<key>title</key>
+			<string>Build target Pods-Calculator</string>
+			<key>uniqueIdentifier</key>
+			<string>21E07E2E-B0C0-45AE-B2D2-1269772742E5</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
