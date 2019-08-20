@@ -35,6 +35,64 @@
 			<key>uniqueIdentifier</key>
 			<string>1FFB12FD-38D0-44CC-BA76-D9B10AF0F777</string>
 		</dict>
+		<key>A10779BB-1CBB-4ADD-94A5-BDB89BE64455</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A10779BB-1CBB-4ADD-94A5-BDB89BE64455.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Calculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Calculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Calculator</string>
+			<key>timeStartedRecording</key>
+			<real>588014424.14796305</real>
+			<key>timeStoppedRecording</key>
+			<real>588014431.261428</real>
+			<key>title</key>
+			<string>Build Calculator</string>
+			<key>uniqueIdentifier</key>
+			<string>A10779BB-1CBB-4ADD-94A5-BDB89BE64455</string>
+		</dict>
+		<key>BB720F73-056D-4365-8B3F-7173530838E5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB720F73-056D-4365-8B3F-7173530838E5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Calculator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Calculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Calculator</string>
+			<key>timeStartedRecording</key>
+			<real>588014479.60503805</real>
+			<key>timeStoppedRecording</key>
+			<real>588014484.57992399</real>
+			<key>title</key>
+			<string>Build Calculator</string>
+			<key>uniqueIdentifier</key>
+			<string>BB720F73-056D-4365-8B3F-7173530838E5</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

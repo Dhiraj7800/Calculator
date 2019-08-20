@@ -78,10 +78,10 @@ class ViewController: UIViewController {
         if tag == 15 { // ^ power
             
             if  self.removePreviousOperator(){
-                self.setText(text: "^")
+              //  self.setText(text: "^")
             }
             else {
-                self.setText(text: "^")
+                //self.setText(text: "^")
             }
             
         }
@@ -160,6 +160,10 @@ class ViewController: UIViewController {
     }
     @IBAction func startCalculation(_ sender: UIButton) {
         let inputNumbers = self.enteredNumber.text!
+        
+        /// -6-5+4*3^2
+        //-6-5+4*3pow()2
+        let input = inputNumbers.replacingOccurrences(of: "^", with: "pow()")
         let expression = Expression(inputNumbers)
         let result = try! expression.evaluate()
         // round of upto 2 digits

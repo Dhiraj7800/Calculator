@@ -3,8 +3,8 @@
 <plist version="1.0">
 <array>
 	<string>Foundation</string>
-	<string>Calculator</string>
 	<string>Expression</string>
+	<string>Calculator</string>
 	<string>UIKit</string>
 	<string>XCTest</string>
 </array>
